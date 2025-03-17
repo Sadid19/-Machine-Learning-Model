@@ -1,4 +1,4 @@
-# Machine-Learning-Model
+# Flood-Prediction-Machine-Learning-Model
 This project includes a flood prediction model that uses a hybrid approach combining SARIMA and XGBoost. The model is designed to analyze historical flood data and predict future flood occurrences.
 
 # 📌 Dataset Information
@@ -8,10 +8,10 @@ This project includes a flood prediction model that uses a hybrid approach combi
 
 # 📌 Key Features
 -Data Preprocessing: Handling missing values, feature engineering, and resampling. <br>
--Time Series Forecasting: SARIMA model is used for trend analysis. <br>
+-Time Series Forecasting: The SARIMA model is used for trend analysis. <br>
 -Machine Learning Enhancement: XGBoost is trained on residuals to improve accuracy. <br>
 -Evaluation Metrics: RMSE, MAE, MAPE, and Accuracy are calculated. <br>
--Visualization: Actual vs Predicted Flood occurrences and Future Forecasting
+-Visualization: Actual vs Predicted Flood Occurrences and Future Forecasting
 
 # 📊 Model Output
 -Root Mean Squared Error (RMSE): Measures how well the model predicts flood occurrences. <br>
